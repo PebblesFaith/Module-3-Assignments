@@ -1,0 +1,3 @@
+In this module three (3), I will learn how JavaScript allows us to make Web pages interactive with JavaScript ability to interact with HTM and Document Object Model (DOM), I can access HTML elements then modify them and add or remove elements from a Web page. I can also, code HTML and DOM webpages in response to actions or events which is, where the responsiveness aspect of JavaScript language comes into its effectiveness. These capabilities are what make JavaScript language such a powerful and useful language for Web developers. So, let me take a look at how to work with the DOM in JavaScript language.
+
+
