@@ -5,8 +5,3 @@ function myFunction() {
 
 
 
-var arr=document.getElementsByTagName("img");
-
-for(var x=0; x<arr.length; x++) { 
-    arr[x].url="('c:/Users/sarai/Documents/Pictures/antonio-grosz-1471591-unsplash.jpg')"; 
-}
