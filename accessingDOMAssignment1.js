@@ -8,7 +8,7 @@ function accessingDOM () {
 */
 
 function accessingDOM1 () {
-    var headings1 = document.querySelectorAll('.h1');
+    var headings = document.querySelectorAll('.h1');
     document.querySelectorAll('.h1') = headings1[0].innerHTML;
 
 }
