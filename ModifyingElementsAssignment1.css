@@ -2,7 +2,7 @@
 body {
     display: flex;
     flex-direction: column;
-    background-color: rgb(241, 241, 183);
+    background-color: rgb(153, 82, 86);
 }
 
 /* Create row container to house one (1) individual  column. */ 
@@ -10,10 +10,10 @@ body {
     margin-top:23px;  
     display: flex;
     flex-wrap: wrap;    
-    border-top: 50px  rgba(218, 134, 192, 0.91) solid; 
-    border-left: 50px  rgba(218, 134, 192, 0.63) solid; 
-    border-right: 50px  rgba(218, 134, 192, 0.63) solid; 
-    border-bottom: 50px  rgba(218, 134, 192, 0.911) solid; 
+    border-top: 50px  rgba(218, 191, 134, 0.91) solid; 
+    border-left: 50px  rgba(218, 191, 134, 0.63) solid; 
+    border-right: 50px  rgba(218, 191, 134, 0.63) solid; 
+    border-bottom: 50px  rgba(218, 191, 134, 0.911) solid; 
     background-color: rgb(116, 116, 107); 
     align-items: center;
     justify-content: center;   
@@ -25,12 +25,12 @@ body {
     display: flex;    
     flex: 71%;
     max-width: 71%;    
-    background-color: rgba(241, 241, 183, 0.883);
+    background-color: rgba(153, 82, 86, 0.883);
     border: 10px rgb(233, 231, 203) solid;                               
     font-family: 'Book Antiqua', Times, serif;     
     font-size: 20px;    
     text-align: left; 
-    color: rgb(33, 19, 241);     
+    color: rgb(233, 231, 203);     
     align-items: center;
     justify-content: center;
 }
@@ -41,7 +41,7 @@ body {
     margin-left: 15px;  
     font-family: 'Book Antiqua', Times, serif; 
     font-size: 15px;
-    color: rgb(33, 19, 241);
+    color: rgb(233, 231, 203);
 }
 
 /* Create class element for aligning texts and font styles. */
@@ -50,6 +50,6 @@ body {
     margin-left: 15px;  
     font-family: 'Book Antiqua', Times, serif; 
     font-size: 15px;
-    color: rgb(33, 19, 241);
+    color: rgb(233, 231, 203);
 }
 
