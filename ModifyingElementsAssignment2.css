@@ -29,14 +29,14 @@ body {
     border: 10px rgb(233, 231, 203) solid;                               
     font-family: 'Book Antiqua', Times, serif;     
     font-size: 20px;    
-    text-align: center; 
+    text-align: left; 
     color: rgb(33, 19, 241);     
     align-items: center;
     justify-content: center;
 }
 
 /* Create class element for aligning texts and font styles. */
-.pbody {
+.h5-1 {
     text-align: left; 
     margin-left: 15px;  
     font-family: 'Book Antiqua', Times, serif; 
@@ -45,30 +45,32 @@ body {
 }
 
 /* Create class element for aligning texts and font styles. */
-.format1 {
-    text-align: left;   
-    font-family: 'Book Antiqua', Times, serif; 
-    font-size: 15px;
-    color: rgb(33, 19, 241);
-}
-
-/* Create p1 class for border font styles. */
 .p1 {
+    text-align: center; 
+    margin-left: 15px;  
     font-family: 'Book Antiqua', Times, serif; 
     font-size: 15px;
     color: rgb(33, 19, 241);
 }
 
-/* Create paragraph id quote for font styles. */
-#quote {
-    text-align: left;   
-    font-family: 'Book Antiqua', Times, serif; 
-    font-size: 15px;
-    color: rgb(33, 19, 241);
-}
-
-
-
-
+/* unvisited link */
+a:link {
+    color: rgb(209, 113, 179);
+  }
+  
+  /* visited link */
+  a:visited {
+    color: rgb(11, 122, 11);
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: rgb(238, 224, 24);
+  }
+  
+  /* selected link */
+  a:active {
+    color: rgb(0, 110, 255);
+  } 
 
 
