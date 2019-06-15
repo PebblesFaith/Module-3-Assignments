@@ -9,5 +9,5 @@ var newText = document.createTextNode("Hi, I'm new here");
 document.getElementById("p2").append(newText);
 
 var originalList= document.getElementById("myList2").lastChild;
-var exactCopy = originalList.cloneNode(true);
-document.getElementById("myList1").appendChild(exactCopy);
+var newItem = originalList.cloneNode(true);
+document.getElementById("myList1").appendChild(newItem);
